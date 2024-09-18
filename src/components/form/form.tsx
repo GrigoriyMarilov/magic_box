@@ -41,7 +41,6 @@ export const Form = () => {
       try {
         await BoxService.editBox(shapeProps.id, data);
         callTrigger();
-        toast.success("Box successfully updated!");
       } catch (error: any) {
         toast.error("Error updating box");
       } finally {
