@@ -1,1 +1,1 @@
-export {indices} from './indices.ts'
+export { indices } from "./indices.ts";

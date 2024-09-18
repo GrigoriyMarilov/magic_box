@@ -1,1 +1,1 @@
-export {getVertices} from './getVertices.ts'
+export { getVertices } from "./getVertices.ts";
