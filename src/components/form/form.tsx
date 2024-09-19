@@ -74,7 +74,7 @@ export const Form = () => {
                 if (isNaN(value)) {
                   return "Enter a valid number";
                 }
-                if (Math.abs(value) >= 30) {
+                if (Math.abs(value) > 30) {
                   return "The number must be in the range from -30 to 30";
                 }
               },
