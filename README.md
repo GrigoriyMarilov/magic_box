@@ -1,5 +1,6 @@
 #magic_box
- Three js test
+Three js test
+
 # React + TypeScript + Vite
 
 ## Project Setup
